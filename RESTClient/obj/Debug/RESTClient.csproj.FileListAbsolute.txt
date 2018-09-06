@@ -1,0 +1,10 @@
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\bin\Debug\RESTClient.exe.config
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\bin\Debug\RESTClient.exe
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\bin\Debug\RESTClient.pdb
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.Form1.resources
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.Properties.Resources.resources
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.csproj.GenerateResource.cache
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.exe
+C:\Users\Ronan\source\repos\RESTClient\RESTClient\obj\Debug\RESTClient.pdb
