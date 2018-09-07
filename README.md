@@ -4,12 +4,14 @@ a RESTful web service is needed.  In the Windows Form there is a textBox called 
 of the created web service. The textbox (txtResponse)  displays what is returned from the web service.  If everything
 is set up correctly clicking the button (Go) will make the REST request and return a JSON response.
 
-Tools used to validate/format json: 
+Tools used to validate/format json:
+
 https://jsonlint.com/
 
 https://jsonformatter.org/json-editor
 
 Useful Links to consume REST API:
+
 https://code-maze.com/different-ways-consume-restful-api-csharp/
 
 https://www.c-sharpcorner.com/article/consuming-asp-net-web-api-rest-service-in-asp-net-mvc-using-http-client/ (ASP .Net MVC)
