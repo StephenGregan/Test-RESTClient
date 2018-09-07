@@ -6,6 +6,7 @@ is set up correctly clicking the button (Go) will make the REST request and retu
 
 Tools used to validate/format json: 
 https://jsonlint.com/
+
 https://jsonformatter.org/json-editor
 
 Useful Links to consume REST API:
